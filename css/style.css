@@ -45,6 +45,10 @@ div {
 #yellow {
     background-color: #FFFF00;
     text-align: right;
+    
+}
+
+#yellow h2 {
     color: #000000;
     text-shadow: #c7e2c7;
 }
